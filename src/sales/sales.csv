@@ -1,0 +1,6 @@
+order_id,date,region,product,category,quantity,unit_price
+O1,2024-01-01,North,Widget A,Widgets,10,9.99
+O2,2024-01-01,South,Widget B,Widgets,5,19.99
+O3,2024-01-02,North,Widget A,Widgets,3,9.99
+O4,2024-01-02,East,Gadget C,Gadgets,2,49.99
+O5,2024-01-03,West,Widget B,Widgets,1,19.99
